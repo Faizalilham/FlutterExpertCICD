@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "poster_path": "/cintamu.jpg",
+        "popularity": 5.3,
+        "id": 1,
+        "backdrop_path": "/cintamu.jpg",
+        "vote_average": 6.8,
+        "overview": "Harry Potter",
+        "first_air_date": "2002-17-16",
+        "origin_country": [
+            "id"
+        ],
+        "genre_ids": [
+            1,
+            2
+        ],
+        "original_language": "Harry Potter",
+        "vote_count": 176,
+        "name": "Harry Potter",
+        "original_name": "Harry Potter"
+      }
+    ],
+    "total_results": 345,
+    "total_pages": 36
+  }
